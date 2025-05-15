@@ -4,14 +4,6 @@ This repository contains all code and resources used to identify, analyze, and v
 
 ---
 
-## 🚀 Project Overview
-
-- **Goal**: To map the phylogenetic diversity, global distribution, and functional characteristics of uric acid–degrading microbes.
-- **Scope**: Genome-scale analysis across >70 environments and 20+ microbial phyla.
-- **Tech Stack**: Python, Bash, cblaster, Prokka, DIAMOND, GTDB-Tk, IQ-TREE, and KEGG pathway annotations.
-
----
-
 ## 📂 Directory Structure
 
 ```bash
